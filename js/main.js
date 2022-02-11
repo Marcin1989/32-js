@@ -1,0 +1,3 @@
+
+
+alert("Skrypt dziala prawidlowo");
